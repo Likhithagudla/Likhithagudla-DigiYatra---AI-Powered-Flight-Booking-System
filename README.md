@@ -2,6 +2,19 @@
 
 DigiYatra is a modern flight booking system that incorporates facial recognition technology for seamless passenger verification and check-in processes.
 
+**📡 Live Demo**
+
+Check out the live version: https://digi-yatra.vercel.app/
+
+ **Output Screens** 
+ ![Screenshot 2025-01-05 121425](https://github.com/user-attachments/assets/4db0ceda-2cea-482c-b029-b100f2675eed)
+ 
+![Screenshot 2025-01-05 121440](https://github.com/user-attachments/assets/aa98d15d-363e-4824-b452-2813178803dd)
+
+![Screenshot 2025-01-05 121526](https://github.com/user-attachments/assets/4ac1b785-0415-4504-a4e9-a0a2e350d6aa)
+
+![Screenshot 2025-01-05 121542](https://github.com/user-attachments/assets/03513d2c-ee5e-4650-9e37-5c8bcad318b9)
+
 **🌟 Features**
 
 **Flight Search & Booking**
@@ -206,19 +219,6 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
-
-📡 Live Demo
-
-Check out the live version: https://digi-yatra.vercel.app/
-
- **Output Screens** 
- ![Screenshot 2025-01-05 121425](https://github.com/user-attachments/assets/4db0ceda-2cea-482c-b029-b100f2675eed)
- 
-![Screenshot 2025-01-05 121440](https://github.com/user-attachments/assets/aa98d15d-363e-4824-b452-2813178803dd)
-
-![Screenshot 2025-01-05 121526](https://github.com/user-attachments/assets/4ac1b785-0415-4504-a4e9-a0a2e350d6aa)
-
-![Screenshot 2025-01-05 121542](https://github.com/user-attachments/assets/03513d2c-ee5e-4650-9e37-5c8bcad318b9)
 
 **🙏 Acknowledgments**
 
